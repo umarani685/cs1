@@ -1,0 +1,6 @@
+types of attacks
+sniffing
+spoofing
+man in the middle
+hijacking
+pishing
